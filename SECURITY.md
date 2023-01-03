@@ -2,4 +2,4 @@
 
 ## Reporting a Vulnerability
 
-Please report any vulnerability in [/security/advisories](https://github.com/scratch-for-discord/Web-Application_Frontend/security/advisories)
+Please report any vulnerability in [/security/advisories](https://github.com/Malix-Off/Template/security/policy/advisories)

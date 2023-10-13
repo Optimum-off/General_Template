@@ -9,7 +9,7 @@
 
 - ### GitHub Labels
 
-- ### GitHub Issue Template
+- ### [GitHub Issue and Pull Request Template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
 
 - ### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
 

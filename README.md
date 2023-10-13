@@ -32,4 +32,4 @@ Fully featued with GitHub files
 
 - ### GitHub Settings
 
-GitHub Settings are not embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, but they are still optimized
+GitHub Settings cannot be embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to copy them manually

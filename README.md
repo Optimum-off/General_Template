@@ -1,18 +1,19 @@
 # [@Malix-Off](https://github.com/Malix-Off) [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
+## Usage
+
+1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
+2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Off/Template/edit/master/README.md#github-settings)
+
 ## Features
-
-- ### GitHub Settings
-
-GitHub Settings are not embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, but they are still optimized
-
-- ### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
-
-The best starting [GitHub project template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template) for any project scale
 
 - ### GitHub Labels
 
 - ### GitHub Issue Template
+
+- ### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
+
+The best starting [GitHub project template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template) for any project scale
 
 - ###  GitHub Actions
 
@@ -28,3 +29,7 @@ Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 - ### GitHub Files
 
 Fully featued with GitHub files
+
+- ### GitHub Settings
+
+GitHub Settings are not embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, but they are still optimized

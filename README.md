@@ -1,18 +1,30 @@
-# [@Malix-Off](https://github.com/Malix-Off) Template
-
-## GitHub Files
-
-Fully featued with GitHub files
-
-## GitHub Actions
-
-Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+# [@Malix-Off](https://github.com/Malix-Off) [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Features
 
-- On issue create:
-  - [ ] [Create a branch named as the issue ID and link it to the created issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)
-    - On first commit push to this branch:
-      - [ ] Create a draft pull request to the [parent issue](https://docs.github.com/en/issues/managing-your-tasks-with-tasklists/about-tasklists#about-tasklists-and-issue-hierarchy:~:text=You%20can%20create-,parent,-and%20child%20relationships) if any, else master
-- On push to master:
-  - [ ] Create a [draft release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#:~:text=release%20later%2C%20click-,Save%20draft,-.%20You%20can%20then) with a tag annoted with the latest semver tag incremented by one patch 
+- ### GitHub Settings
+
+GitHub Settings are not embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, but they are still optimized
+
+- ### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
+
+The best starting [GitHub project template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template) for any project scale
+
+- ### GitHub Labels
+
+- ### GitHub Issue Template
+
+- ###  GitHub Actions
+
+Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+
+  - On issue create:
+    - [ ] [Create a branch named as the issue ID and link it to the created issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-a-branch-for-an-issue)
+	  - On first commit push to this branch:
+	    - [ ] Create a [draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request#marking-a-pull-request-as-ready-for-review) to the [parent issue](https://docs.github.com/en/issues/managing-your-tasks-with-tasklists/about-tasklists#about-tasklists-and-issue-hierarchy:~:text=You%20can%20create-,parent,-and%20child%20relationships) if any, else master
+  - On push to master:
+    - [ ] Create a [draft release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#:~:text=release%20later%2C%20click-,Save%20draft,-.%20You%20can%20then) with a tag annoted with the latest semver tag incremented by one patch 
+
+- ### GitHub Files
+
+Fully featued with GitHub files

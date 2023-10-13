@@ -3,7 +3,7 @@
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Off/Template/edit/master/README.md#github-settings)
+2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Off/Template/blob/master/README.md#github-settings)
 
 ## Features
 

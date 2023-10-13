@@ -34,7 +34,7 @@ Fully featued with GitHub files
 
 - ### GitHub Settings
 
-GitHub Settings cannot be embeded in the [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Malix-Off/Template/blob/master/README.md#:~:text=Copy%20all%20this%20repository%20GitHub%20Settings)
+GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Malix-Off/Template/blob/master/README.md#:~:text=Copy%20all%20this%20repository%20GitHub%20Settings)
 
 <!--
 - 

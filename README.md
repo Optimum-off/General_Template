@@ -15,6 +15,8 @@
 
 The best starting [GitHub project template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template) for any project scale
 
+- ### [GitHub Discussion Category Form](https://docs.github.com/en/discussions/managing-discussions-for-your-community/creating-discussion-category-forms)
+
 - ###  GitHub Actions
 
 Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)

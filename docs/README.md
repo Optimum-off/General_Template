@@ -7,10 +7,21 @@ It is accessible online at <https://github.com/Optimum-off/Template?tab=readme-o
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
 2. [ ] Copy all [this repository GitHub Settings](https://github.com/Optimum-off/Template/blob/master/docs/README.md#github-settings)
+3. [ ] Copy all [this repository GitHub labels](https://github.com/Optimum-off/Template/blob/master/docs/README.md#github-labels)
 
 ## Features
 
-### GitHub Labels
+### [GitHub Labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
+
+- "Feature" (#00FF00)
+- "Enhancement" (#00FFFF)
+- "Fix" (#FF8000)
+- "Update" (#FFFF00)
+- "Deprecation" (#FF0000)
+
+### [GitHub Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
+
+- "v1.0.0"
 
 ### [GitHub Issue and Pull Request Template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
 

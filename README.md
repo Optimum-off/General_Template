@@ -1,5 +1,9 @@
 # [@Optimum-off (Optimum™)](https://github.com/Optimum-off) [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
+After creating a repository from the [@Optimum-off (Optimum™)](https://github.com/Optimum-off) [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), this file has to be cleared.  
+It is accessible online at <https://github.com/Optimum-off/Template?tab=readme-ov-file>
+
+
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)

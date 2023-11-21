@@ -1,4 +1,4 @@
-# [@Malix-Off](https://github.com/Malix-Off) [Own Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+# [@Malix-Off](https://github.com/Malix-Off) Own [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Usage
 

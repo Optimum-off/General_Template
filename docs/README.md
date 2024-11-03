@@ -1,23 +1,37 @@
-# [@Malix-Labs](https://github.com/Malix-Labs) Own [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+# [@Optimum-off (Optimum™)](https://github.com/Optimum-off) General [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+
+After creating a repository from the [@Optimum-off (Optimum™)](https://github.com/Optimum-off) [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), this file has to be cleared.  
+It is accessible online at https://github.com/Optimum-off/General_Template#readme
 
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Labs/Template/blob/master/README.md#github-settings)
+2. [ ] Copy all [this repository GitHub Settings](https://github.com/Optimum-off/General_Template#github-settings)
+3. [ ] Copy all [this repository GitHub labels](https://github.com/Optimum-off/General_Template#github-labels)
 
 ## Features
 
-- ### GitHub Labels
+### [GitHub Labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
 
-- ### [GitHub Issue and Pull Request Template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+- "Feature" (#00FF00)
+- "Enhancement" (#00FFFF)
+- "Fix" (#FF8000)
+- "Update" (#FFFF00)
+- "Deprecation" (#FF0000)
 
-- ### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
+### [GitHub Milestones](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests)
+
+- "v1.0.0"
+
+### [GitHub Issue and Pull Request Template](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/about-issue-and-pull-request-templates)
+
+### [GitHub Project Template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template)
 
 The best starting [GitHub project template](https://docs.github.com/en/issues/planning-and-tracking-with-projects/managing-your-project/managing-project-templates-in-your-organization#copying-a-project-as-a-template) for any project scale
 
-- ### [GitHub Discussion Category Form](https://docs.github.com/en/discussions/managing-discussions-for-your-community/creating-discussion-category-forms)
+### [GitHub Discussion Category Form](https://docs.github.com/en/discussions/managing-discussions-for-your-community/creating-discussion-category-forms)
 
-- ###  GitHub Actions
+### GitHub Actions
 
 Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 
@@ -34,7 +48,7 @@ Fully featued with GitHub files
 
 - ### GitHub Settings
 
-GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Malix-Off/Template/blob/master/README.md#:~:text=Copy%20all%20this%20repository%20GitHub%20Settings)
+GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Optimum-off/General_Template#github-settings)
 
 <!--
 1.

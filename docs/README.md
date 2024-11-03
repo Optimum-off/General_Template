@@ -1,9 +1,9 @@
-# [@Malix-Off](https://github.com/Malix-Off) Own [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+# [@Malix-Labs](https://github.com/Malix-Labs) Own [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Off/Template/blob/master/README.md#github-settings)
+2. [ ] Copy all [this repository GitHub Settings](https://github.com/Malix-Labs/Template/blob/master/README.md#github-settings)
 
 ## Features
 
@@ -26,7 +26,7 @@ Optimized for [Trunk-Based Development](https://trunkbaseddevelopment.com/)
 		- On first commit push to this branch:
 			- [ ] Create a [draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request#marking-a-pull-request-as-ready-for-review) to the [parent issue](https://docs.github.com/en/issues/managing-your-tasks-with-tasklists/about-tasklists#about-tasklists-and-issue-hierarchy:~:text=You%20can%20create-,parent,-and%20child%20relationships) if any, else master
 - On push to master:
-	- [ ] Create a [draft release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#:~:text=release%20later%2C%20click-,Save%20draft,-.%20You%20can%20then) with a tag annoted with the latest semver tag incremented by one patch 
+	- [ ] Create a [draft release](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository#:~:text=release%20later%2C%20click-,Save%20draft,-.%20You%20can%20then) with a tag annoted with the latest semver tag incremented by one patch
 
 - ### GitHub Files
 
@@ -37,5 +37,5 @@ Fully featued with GitHub files
 GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Malix-Off/Template/blob/master/README.md#:~:text=Copy%20all%20this%20repository%20GitHub%20Settings)
 
 <!--
-1. 
+1.
 -->

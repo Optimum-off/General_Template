@@ -6,8 +6,8 @@ It is accessible online at https://github.com/Optimum-off/General_Template#readm
 ## Usage
 
 1. [ ] [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template)
-2. [ ] Copy all [this repository GitHub Settings](https://github.com/Optimum-off/Template/blob/master/docs/README.md#github-settings)
-3. [ ] Copy all [this repository GitHub labels](https://github.com/Optimum-off/Template/blob/master/docs/README.md#github-labels)
+2. [ ] Copy all [this repository GitHub Settings](https://github.com/Optimum-off/General_Template#github-settings)
+3. [ ] Copy all [this repository GitHub labels](https://github.com/Optimum-off/General_Template#github-labels)
 
 ## Features
 
@@ -48,7 +48,7 @@ Fully featued with GitHub files
 
 ### GitHub Settings
 
-GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Optimum-off/Template/blob/master/docs/README.md#:~:text=Copy%20all%20this%20repository%20GitHub%20Settings)
+GitHub Settings cannot be embeded in a [GitHub repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) copied data, therefore, you have to [copy them manually](https://github.com/Optimum-off/General_Template#github-settings)
 
 <!--
 1.

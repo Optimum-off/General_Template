@@ -1,4 +1,4 @@
-# [@Malix-Labs](https://github.com/Malix-Labs) General [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+# [@Malix-Labs](https://github.com/Malix-Labs) Own [Repository Template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
 
 After creating a repository from the [@Malix-Labs](https://github.com/Malix-Labs) [repository template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template), this file has to be cleared.
 It is accessible online at https://github.com/Malix-Labs/Template#readme
